@@ -1,4 +1,4 @@
-## Hi there I'm SJ👋
+## Hi there, I'm SJ👋
 
 <!--
 **Han-s-j/Han-s-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
